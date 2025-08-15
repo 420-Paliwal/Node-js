@@ -1,0 +1,14 @@
+rest api - json
+
+get /users - list all users
+get /users1 - get user id with 1
+get /users2 - get user id with 1
+
+post /users - Create new user 
+
+patch /users/1 - edit the user with id 1
+
+>>>delete /users/1 - delete whose id is 1
+
+
+dummy users by mockaroo.com
