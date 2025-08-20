@@ -9,6 +9,10 @@ post /users - Create new user
 patch /users/1 - edit the user with id 1
 
 >>>delete /users/1 - delete whose id is 1
+>>>>> dummy users by mockaroo.com
 
+>>>>>> mongoDB kese use karte h 
 
-dummy users by mockaroo.com
+Schema - Define the structure 
+     Schema - Model
+     Using model we do CRUD Operations
